@@ -1,0 +1,2 @@
+# Ts3musicbot
+translations
